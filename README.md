@@ -26,7 +26,6 @@ The final dashboard provides insights into:
 | BigQuery | Data Warehousing & SQL Processing |
 | SQL | ETL, Data Cleaning & Analysis |
 | Looker Studio | Data Visualization & Dashboarding |
-| Excel | Data Validation & Initial Checks |
 
 ---
 
